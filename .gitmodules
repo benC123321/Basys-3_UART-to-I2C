@@ -3,4 +3,4 @@
 	url = https://github.com/benC123321/Basys-3_UART_to_I2C_Vivado
 [submodule "FPGA-UART-I2C"]
 	path = FPGA-UART-I2C
-	url = https://github.com/benC123321/FPGA-UART-I2C
+	url = https://github.com/benC123321/FPGA-UART-I2C.git
